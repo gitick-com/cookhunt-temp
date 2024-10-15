@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Set the launch date in IST (Indian Standard Time)
-    const launchDate = new Date('July 14, 2024 00:00:00 GMT+0530').getTime();
+    const launchDate = new Date('December 07, 2024 20:00:00 GMT+0530').getTime();
 
     // Update the countdown every second
     const timer = setInterval(updateCountdown, 1000);
